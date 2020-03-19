@@ -1,0 +1,2 @@
+# ACoolApp
+Testing project renaming
